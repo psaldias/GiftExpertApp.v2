@@ -1,0 +1,13 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import GiftExpertApp from './GiftExpertApp';
+
+import './index.css';
+import './bulma.min.css';
+// const apiKey = 'GbaldlLEpcmkpLhMNOnCxBDSFoXe03NG';
+
+ReactDOM.render(
+  <GiftExpertApp />,
+  document.getElementById('root')
+);

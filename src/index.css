@@ -1,0 +1,11 @@
+*{
+  color:#FFF;
+}
+html,body{
+  background:#252526 !important;
+  min-height: 100%;
+}
+#root{
+  color:#FFF;
+  padding:1em !important;
+}
